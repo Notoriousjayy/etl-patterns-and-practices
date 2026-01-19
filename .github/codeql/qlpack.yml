@@ -1,0 +1,4 @@
+name: Notoriousjayy/etl-patterns-and-practices-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
